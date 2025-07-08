@@ -1,4 +1,4 @@
-<h1>Azure SIEM In Azure Project</h1>
+<h1>SIEM In Microsoft Azure Project</h1>
 
 <p>Created a Honeypot using a virtual machine and virtual network. Released it to the public internet and observed the attacks through logs and queried the data with KQL. Created an Attack Map and observed the enriched logs.</p>
 
